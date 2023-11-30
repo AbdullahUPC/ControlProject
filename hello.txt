@@ -1,1 +1,1 @@
-Temperature 1: 365.87°K, Temperature 2: 223.15K, Timestamp: 2023-11-30T12:00:00Z
+Temperature 1: 305.75°K, Temperature 2: 223.15K, Timestamp: 2023-11-30T12:00:00Z
