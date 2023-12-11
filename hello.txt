@@ -1,1 +1,1 @@
-Temperature 1: 362.45°K, Temperature 2: 223.15K, LED Status: OFF, Timestamp: 2023-11-30T12:00:00Z
+Temperature 1: 480.24°K, Temperature 2: 223.15K, LED Status: OFF, Timestamp: 2023-11-30T12:00:00Z
