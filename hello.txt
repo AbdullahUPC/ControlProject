@@ -1,1 +1,1 @@
-Temperature 1: -5.03°C, Temperature 2: 0.34°C, LED Status: OFF, Timestamp: 2023-11-30T12:00:00Z
+Temperature 1: 2.79°C, Temperature 2: -2.10°C, LED Status: OFF, Timestamp: 2023-11-30T12:00:00Z
